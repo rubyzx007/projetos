@@ -1,0 +1,99 @@
+body {
+    background-color: rgb(160, 189, 164);
+}
+
+am {
+    font-family: style;
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    text-align: justify;
+    margin-bottom: 30px;
+    line-height: 1.5;
+}
+
+ak {
+    font-family: style;
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    text-align: justify;
+    line-height: 1.5;
+    margin-right: 50px; 
+    margin-bottom: 300px;
+    position: absolute;
+    top: 780px;
+    left: 400px; 
+}
+
+aq {
+    font-family: style;
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    text-align: justify;
+    line-height: 1.5;
+    margin-right: 50px; 
+    margin-bottom: 300px;
+    position: absolute;
+    top: 1200px;
+    left: 400px; 
+}
+
+.titulo {
+    color: rgb(61, 89, 168);
+    font-family: Georgia;
+    font-size: 35px;
+}
+
+.capa {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100% ;
+    height: auto;
+    border-radius: 20px;
+    display: block;
+    margin-bottom: 50px;
+}
+
+.primeiro {
+    width: 300px;            /* Define a largura da imagem */
+    height: auto;            /* Mantém a proporção da altura de acordo com a largura */
+    border-radius: 10px;     /* Faz bordas arredondadas */
+    border: 2px solid #ffffff;  /* Adiciona uma borda preta de 2px */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); 
+    margin-right: 50px;
+    margin-left: 30px;
+    float:left;
+}
+
+.segundo {
+    width: 300px;            /* Define a largura da imagem */
+    height: auto;            /* Mantém a proporção da altura de acordo com a largura */
+    border-radius: 10px;     /* Faz bordas arredondadas */
+    border: 2px solid #ffffff;  /* Adiciona uma borda preta de 2px */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); 
+    margin-right: 50px;
+    margin-top: 140px;
+    margin-left: 30px;
+    float:left;
+    display: block;
+    margin-bottom: 50px;
+}
+
+.terceiro {
+    width: 300px;            /* Define a largura da imagem */
+    height: auto;            /* Mantém a proporção da altura de acordo com a largura */
+    border-radius: 10px;    /* Faz bordas arredondadas */
+    border: 2px solid #ffffff;  /* Adiciona uma borda preta de 2px */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); 
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-left: 404px;
+    float:left;
+    display: block;
+    margin-bottom: 120px;
+}
+
+/* .container {
+    position: relative;
+    width: 300px;  Ajuste conforme necessário 
+    height: auto;  Ajuste conforme necessário 
+ */
